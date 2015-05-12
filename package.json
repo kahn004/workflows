@@ -7,5 +7,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Sam Ahn"
+  "author": "Sam Ahn",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.4"
+  }
 }
